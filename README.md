@@ -1,9 +1,7 @@
 # Progetto di *Analysis of Algorithms and Data Structures*
 
 Autori: Luisa Collodi luisa.collodi@stud.unifi.it,
- 
-            Federico Fiorentino federico.fiorentino@stud.unifi.it,
-                        
+            Federico Fiorentino federico.fiorentino@stud.unifi.it,                    
             Matteo Ghera matteo.ghera@stud.unifi.it      
 
 
